@@ -4,11 +4,11 @@ A professional academic web interface for managing cybercrime investigation case
 
 ## 🌐 Live Demo
 
-After publishing this project with **GitHub Pages**, your live website will be available at:
 
-`https://YOUR-GITHUB-USERNAME.github.io/cybercrime-investigation-system/`
 
-> Replace `YOUR-GITHUB-USERNAME` with your actual GitHub username.
+`https://rajithapasalapudi01.github.io/cybercrime-investigation-system/`
+
+
 
 ## 📌 Project Overview
 
