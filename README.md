@@ -6,7 +6,7 @@ A professional academic web interface for managing cybercrime investigation case
 
 
 
-`https://rajithapasalapudi01.github.io/cybercrime-investigation-system/`
+`https://rajithapasalapudi01.github.io/cyber-landing-page/`
 
 
 
