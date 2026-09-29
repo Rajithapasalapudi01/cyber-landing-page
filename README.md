@@ -5,8 +5,7 @@ A professional academic web interface for managing cybercrime investigation case
 ## 🌐 Live Demo
 
 
-
-`https://rajithapasalapudi01.github.io/cyber-landing-page/`
+[visit website](https://rajithapasalapudi01.github.io/cyber-landing-page/)
 
 
 
